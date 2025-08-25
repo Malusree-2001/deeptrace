@@ -1,0 +1,16 @@
+# Ignore virtual environments
+.venv/
+venv/
+__pycache__/
+
+# Ignore outputs
+outputs/
+*.npy
+*.csv
+*.png
+*.jpg
+*.webp
+
+# Ignore IDE/editor settings
+.vscode/
+*.log
